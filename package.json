@@ -6,7 +6,7 @@
     "dev": "nodemon NPM/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aayush Thapa",
   "license": "ISC",
   "description": "",
   "dependencies": {
