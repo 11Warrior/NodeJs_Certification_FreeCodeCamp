@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_certification",
+  "version": "1.0.0",
+  "main": "NPM/index.js",
+  "scripts": {
+    "dev": "nodemon NPM/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "gitignore": "^0.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.1",
+    "node": "^22.15.0",
+    "nodemon": "^3.1.10"
+  }
+}
